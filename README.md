@@ -2,10 +2,6 @@
 
 <div align="center">
   <br />
-  <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
-    <img src="./banner.png" alt="Portfolio Website Banner">
-  </a>
-  <br />
   <div>
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
     <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
@@ -48,7 +44,7 @@ In this tutorial, you'll learn how to build a modern portfolio website using **R
 * **Lucide Icons** – Clean and beautiful icon pack
 * **Radix UI** – Accessible component primitives
 * **TypeScript (optional)** – Type safety and tooling
-* **GitHub & Vercel** – Deployment
+* **GitHub & Netfliy** – Deployment
 
 ---
 
@@ -103,6 +99,13 @@ Your app will be available at: [http://localhost:5173](http://localhost:5173)
 ## 🖼️ Screenshots
 
 > 📸 Add screenshots of your Hero section, Projects grid, and Contact form here to show off your site.
+> <img width="1901" height="1079" alt="image" src="https://github.com/user-attachments/assets/1712e837-1049-45da-bbf7-929e9888d383" />
+<img width="1885" height="1079" alt="image" src="https://github.com/user-attachments/assets/bce448f2-f734-4b54-87fb-70aafe4f6e8d" />
+<img width="1493" height="878" alt="image" src="https://github.com/user-attachments/assets/8f4c8703-7b4a-4d2b-8e5e-3121a2ea05cf" />
+<img width="1436" height="736" alt="image" src="https://github.com/user-attachments/assets/5895b716-d6e0-4ef6-a60c-2db38e03e7e7" />
+
+
+
 
 ---
 
@@ -111,11 +114,11 @@ Your app will be available at: [http://localhost:5173](http://localhost:5173)
 ### Deploy on Vercel
 
 1. Push your code to GitHub
-2. Go to [vercel.com](https://vercel.com)
+2. Go to [netlify.com](https://netlify.com)
 3. Import your repository
 4. Click **Deploy**
 
-Your live website will be hosted on a custom subdomain (e.g. `https://your-name.vercel.app`)
+
 
 ---
 
@@ -126,8 +129,4 @@ Your live website will be hosted on a custom subdomain (e.g. `https://your-name.
 * [Lucide Icons](https://lucide.dev/)
 * [Radix UI](https://www.radix-ui.com/)
 * [Vite](https://vitejs.dev/)
-* [Vercel](https://vercel.com/)
 
----
-
-Let me know if you'd like me to generate a version with your actual GitHub repo, YouTube URL, or a banner image suggestion!
