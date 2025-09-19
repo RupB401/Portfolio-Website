@@ -2,10 +2,6 @@
 
 <div align="center">
   <br />
-  <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
-    <img src="./banner.png" alt="Portfolio Website Banner">
-  </a>
-  <br />
   <div>
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
     <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
@@ -23,19 +19,17 @@
 
 ## 📋 Table of Contents
 
-1. [Introduction](#-introduction)
-2. [Tech Stack](#-tech-stack)
-3. [Features](#-features)
-4. [Quick Start](#-quick-start)
-5. [Screenshots](#-screenshots)
-6. [Deployment](#-deployment)
+1. Introduction
+2. Tech Stack
+3. Features
+4. Quick Start
+5. Deployment
 
 ---
 
 ## 🚀 Introduction
 
-In this tutorial, you'll learn how to build a modern portfolio website using **React**, **TailwindCSS**, **Vite**, and **Lucide Icons**. From dark mode support to responsive animations and deployable project showcases, this video walks you through every step—perfect for developers looking to level up their frontend skills or apply for jobs.
-
+This portfolio is built using React.js and Tailwind CSS, showcasing my projects, skills, and experience as a developer. It is designed to be fully responsive, modern, and minimal for smooth navigation and readability. The portfolio highlights both technical expertise and creativity, serving as a central hub for my work, achievements, and professional journey.
 
 ---
 
@@ -45,8 +39,6 @@ In this tutorial, you'll learn how to build a modern portfolio website using **R
 * **Vite** – Lightning-fast build tool
 * **TailwindCSS** – Utility-first CSS for styling
 * **Lucide Icons** – Clean and beautiful icon pack
-* **Radix UI** – Accessible component primitives
-* **TypeScript (optional)** – Type safety and tooling
 * **GitHub & Vercel** – Deployment
 
 ---
@@ -104,6 +96,14 @@ Your app will be available at:
 > 📸 Add screenshots of your Hero section, Projects grid, and Contact form here to show off your site.
 
 ---
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2ef2dcfa-9019-4d15-a4eb-0400a27fe0c8" />
+<img width="1901" height="971" alt="image" src="https://github.com/user-attachments/assets/186843d5-70ed-46a5-a4ec-3a0350db6de0" />
+<img width="1898" height="972" alt="image" src="https://github.com/user-attachments/assets/31c9ab37-7e8b-4ab7-8ce8-68d5d24f3f73" />
+<img width="1896" height="962" alt="image" src="https://github.com/user-attachments/assets/ecd1c921-40f9-4c60-88ad-8ca2d5682beb" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f01f67aa-a19c-491e-af1b-b072a0aab6c8" />
+
+
+
 
 ## ☁️ Deployment
 
@@ -125,6 +125,7 @@ Your live website will be hosted on a custom subdomain (e.g. `https://your-name.
 * [Radix UI](https://www.radix-ui.com/)
 * [Vite](https://vitejs.dev/)
 * [Vercel](https://vercel.com/)
+* [Netlify](https://netlify.com/)
 
 ---
 
