@@ -93,8 +93,6 @@ Your app will be available at:
 
 ## 🖼️ Screenshots
 
-> 📸 Add screenshots of your Hero section, Projects grid, and Contact form here to show off your site.
-
 ---
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2ef2dcfa-9019-4d15-a4eb-0400a27fe0c8" />
 <img width="1901" height="971" alt="image" src="https://github.com/user-attachments/assets/186843d5-70ed-46a5-a4ec-3a0350db6de0" />
